@@ -341,3 +341,8 @@ h2{
   width: 70px !important;
 margin-top: -8px;
 }
+@media (max-width:1114px) {
+  .column6{
+    font-size: 15px !important;
+  }
+}
